@@ -6,3 +6,5 @@
 * **[Daniels Pikurs](https://github.com/danielspikurs)** 
 * **test**
 
+### Background:
+This project was created via Lua Scriping using Defold.
