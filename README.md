@@ -8,4 +8,9 @@
 * **[RuaidhriMulgrew](https://github.com/RuaidhriMulgrew)**  
 
 ### Background:
-This project was created on the ***[Defold Engine](https://defold.com/)*** using the ***[Lua Scripting Language](https://www.lua.org/)***.  
+* Game Engine: ***[Defold](https://defold.com/)***
+* Language: ***[Lua Scripting](https://www.lua.org/)***
+* Project Management: ***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***
+* Communication: ***[Defold](https://discord.gg/SKTmfVWEtJ)***
+
+
