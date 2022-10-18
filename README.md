@@ -7,4 +7,4 @@
 * **test**
 
 ### Background:
-This project was created via Lua Scriping using Defold.
+This project was created via ***Lua Scriping*** using ***Defold***.
