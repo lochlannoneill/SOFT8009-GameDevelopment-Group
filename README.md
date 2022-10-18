@@ -1,3 +1,3 @@
-Group Members:
-    Lochlann O Neill
-    Daniels Pikurs
+Group Members:  
+    Lochlann O Neill  
+    Daniels Pikurs  
