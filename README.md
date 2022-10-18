@@ -11,6 +11,6 @@
 * Game Engine: ***[Defold](https://defold.com/)***
 * Language: ***[Lua Scripting](https://www.lua.org/)***
 * Project Management: ***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***
-* Communication: ***[Defold](https://discord.gg/SKTmfVWEtJ)***
+* Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
 
 
