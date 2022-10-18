@@ -1,9 +1,7 @@
-# README.md compiled examples https://dillinger.io/
+<!--https://github.com/darsaveli/Readme-Markdown-Syntax-->
+
+% Group Project - Game Development
 ## Group Members:
-- [lochlannoneill]
-- [danielspikurs]
+[Lochlann O Neill](https://github.com/lochlannoneill)`Group Leader`
+[Daniels Pikurs](https://github.com/danielspikurs)
 
-
-[//]:
-    [lochlannoneill]: <https://github.com/lochlannoneill>
-    [danielspikurs]: <https://github.com/danielspikurs>
