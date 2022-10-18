@@ -5,7 +5,7 @@
 * **[Lochlann O Neill](https://github.com/lochlannoneill)** `Group Leader`  
 * **[Daniels Pikurs](https://github.com/danielspikurs)**  
 * **[Eric O Shea](https://github.com/ericosheacork)**  
-* **[RuaidhriMulgrew](https://github.com/RuaidhriMulgrew)**  
+* **[Ruaidhri Mulgrew](https://github.com/RuaidhriMulgrew)**  
 
 ### Background:
 * Game Engine: ***[Defold](https://defold.com/)***
