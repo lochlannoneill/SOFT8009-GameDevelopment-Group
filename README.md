@@ -6,4 +6,4 @@
 * **[Daniels Pikurs](https://github.com/danielspikurs)** 
 
 ### Background:
-This project was created with ***[The Lua Scripting Language](https://www.lua.org/)*** using the ***[Defold Engine](https://defold.com/)***.
+This project was created using ***[The Lua Scripting Language](https://www.lua.org/)*** on the ***[Defold Engine](https://defold.com/)***.
