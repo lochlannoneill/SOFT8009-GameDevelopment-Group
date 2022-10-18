@@ -2,6 +2,7 @@
 
 % Group Project - Game Development
 ## Group Members:
-[Lochlann O Neill](https://github.com/lochlannoneill)`Group Leader`
-[Daniels Pikurs](https://github.com/danielspikurs)
+* [Lochlann O Neill](https://github.com/lochlannoneill)`Group Leader`  
+* [Daniels Pikurs](https://github.com/danielspikurs)  
+* test
 
