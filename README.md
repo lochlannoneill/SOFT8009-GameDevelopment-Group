@@ -1,6 +1,6 @@
 <!--https://github.com/darsaveli/Readme-Markdown-Syntax-->
 
-# Group Project - Game Development
+# SOFT8009 - Game Development
 ### Collaborators:
 * **[Lochlann O Neill](https://github.com/lochlannoneill)** `Group Leader`  
 * **[Daniels Pikurs](https://github.com/danielspikurs)**  
