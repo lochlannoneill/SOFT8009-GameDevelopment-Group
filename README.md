@@ -2,7 +2,7 @@
 
 # SOFT8009 - Game Development
 ### Collaborators:
-* **[Lochlann O Neill](https://github.com/lochlannoneill)** `Group Leader`  
+* **[Lochlann O Neill](https://github.com/lochlannoneill)**
 * **[Daniels Pikurs](https://github.com/danielspikurs)**  
 * **[Eric O Shea](https://github.com/ericosheacork)**  
 * **[Ruaidhri Mulgrew](https://github.com/RuaidhriMulgrew)**  
