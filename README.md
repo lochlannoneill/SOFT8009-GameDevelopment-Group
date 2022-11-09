@@ -10,7 +10,7 @@
 ### Background:
 * Game Engine: ***[Defold](https://defold.com/)***
 * Language: ***[Lua Scripting](https://www.lua.org/)***
-  
+* &nbsp
 * Report: ***[GoogleDoc](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)***
 * Project Management: ***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***
 * Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
