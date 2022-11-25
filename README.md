@@ -13,7 +13,7 @@
 
 ### Collaboration:
 * Report: ***[GoogleDoc](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)***
-* Project Management: ~~***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***~~ GitHub Projects
+* Project Management: ~~***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***~~ ***GitHub Projects***
 * Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
 
 
