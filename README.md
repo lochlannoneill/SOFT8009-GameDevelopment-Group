@@ -11,6 +11,7 @@
 ### :gear: Configuration:
 * Game Engine: ***[Defold](https://defold.com/)***  
 * Language: ***[Lua Scripting](https://www.lua.org/)***  
+* Pixel Art: ***[Piskel](https://www.piskelapp.com/)***  
 
 <!--
 ***
