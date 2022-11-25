@@ -17,3 +17,9 @@
 * Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
 
 
+***
+
+### Project Management ***(GitHub Pages)***:
+![planner](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Planner.PNG?raw=true)  
+![kanban](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Kanban.PNG?raw=true)  
+
