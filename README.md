@@ -22,7 +22,7 @@
 * Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
 -->
 
-### :calendar: Project Management ***(GitHub Pages)***: 
+### :calendar: Project Management ***[GitHubProjects](https://github.com/users/lochlannoneill/projects/2***
 ![planner](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Planner.PNG?raw=true)  
 ![kanban](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Kanban.PNG?raw=true)  
 
