@@ -28,7 +28,6 @@
 ### :calendar: Project Management ***(GitHub Pages)***: 
 ![planner](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Planner.PNG?raw=true)  
 ![kanban](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Kanban.PNG?raw=true)  
-![discord](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Discord.PNG?raw=true)  
 
 ***
 
@@ -37,4 +36,5 @@
 ***
 
 ### :speaking_head: Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
+![discord](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/discord.PNG?raw=true)  
 
