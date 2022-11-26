@@ -1,7 +1,7 @@
 <!--https://github.com/darsaveli/Readme-Markdown-Syntax-->
 <!--https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md-->
 
-# SOFT8009 - Game Development `Group Project`
+# SOFT8009 - Game Development `Group`
 ### :family: Collaborators:
 * :clown_face: **[Lochlann O'Neill](https://github.com/lochlannoneill)**  
 * :alien: **[Daniels Pikurs](https://github.com/danielspikurs)**  
