@@ -27,10 +27,10 @@ local input_left_2 = hash("left2")
 local input_right_2 = hash("right2")
 local input_jump_2 = hash("jump2")
 
-local anim_walk = hash("walk")
-local anim_idle = hash("idle")
+-- local anim_walk = hash("walk")
+-- local anim_idle = hash("idle")
 local anim_jump = hash("jump")
-local anim_fall = hash("fall")
+-- local anim_fall = hash("fall")
 
 function init(self)
 	-- this lets us handle input in this script
