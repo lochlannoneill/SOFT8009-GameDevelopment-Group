@@ -107,7 +107,7 @@ embedded_instances {
   "embedded_components {\n"
   "  id: \"sound\"\n"
   "  type: \"sound\"\n"
-  "  data: \"sound: \\\"/assets/sounds/level_background_sounds.wav\\\"\\n"
+  "  data: \"sound: \\\"/assets/sounds/game_music.wav\\\"\\n"
   "looping: 1\\n"
   "group: \\\"master\\\"\\n"
   "gain: 1.0\\n"
