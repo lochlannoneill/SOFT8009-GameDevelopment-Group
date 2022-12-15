@@ -36,10 +36,11 @@ function init(self)
 	-- this lets us handle input in this script
 	msg.post(".", "acquire_input_focus")
 
+	
 	-- activate camera attached to the player collection
 	-- this will send camera updates to the render script
 	msg.post("camera", "acquire_camera_focus")
-
+	sound.play("player#level1music", {delay = 0, gain = 0.5, pan = -1.0, speed = 1})
 	-- initial player velocity
 	self.velocity = vmath.vector3(0, 0, 0)
 	-- support variable to keep track of collisions and separation
@@ -48,6 +49,7 @@ function init(self)
 	self.ground_contact = false
 	-- the currently playing animation
 	self.anim = nil
+	
 end
 
 local function play_animation(self, anim)
