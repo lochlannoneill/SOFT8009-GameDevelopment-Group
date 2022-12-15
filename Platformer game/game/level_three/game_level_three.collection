@@ -44,7 +44,7 @@ embedded_instances {
   id: "level"
   data: "components {\n"
   "  id: \"level\"\n"
-  "  component: \"/game/level.tilemap\"\n"
+  "  component: \"/game/level_three/level_three.tilemap\"\n"
   "  position {\n"
   "    x: 0.0\n"
   "    y: 0.0\n"
