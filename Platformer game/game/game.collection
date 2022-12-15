@@ -1,10 +1,30 @@
 name: "game"
 collection_instances {
-  id: "player"
-  collection: "/game/player.collection"
+  id: "player_one"
+  collection: "/game/player_one.collection"
   position {
-    x: 720.0
-    y: 650.0
+    x: 735.0
+    y: 750.0
+    z: 1.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "player_two"
+  collection: "/game/player_two.collection"
+  position {
+    x: 835.0
+    y: 750.0
     z: 1.0
   }
   rotation {
@@ -50,6 +70,7 @@ embedded_instances {
   "linear_damping: 0.0\\n"
   "angular_damping: 0.0\\n"
   "locked_rotation: false\\n"
+  "bullet: false\\n"
   "\"\n"
   "  position {\n"
   "    x: 0.0\n"

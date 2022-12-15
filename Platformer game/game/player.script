@@ -1,5 +1,8 @@
 -- Player logic
 
+go.property("player", 1)
+
+
 -- these are the tweaks for the mechanics, feel free to change them for a different feeling
 -- acceleration factor to use when air-borne
 local air_acceleration_factor = 0.8
@@ -15,14 +18,19 @@ local jump_takeoff_speed = 1200
 local msg_contact_point_response = hash("contact_point_response")
 local msg_animation_done = hash("animation_done")
 local group_obstacle = hash("ground")
-local input_left = hash("left")
-local input_right = hash("right")
-local input_jump = hash("jump")
+
+local input_left_1 = hash("left1")
+local input_right_1 = hash("right1")
+local input_jump_1 = hash("jump1")
+
+local input_left_2 = hash("left2")
+local input_right_2 = hash("right2")
+local input_jump_2 = hash("jump2")
+
 local anim_walk = hash("walk")
 local anim_idle = hash("idle")
 local anim_jump = hash("jump")
 local anim_fall = hash("fall")
-
 
 function init(self)
 	-- this lets us handle input in this script
@@ -164,11 +172,11 @@ local function walk(self, direction)
 end
 
 function on_input(self, action_id, action)
-	if action_id == input_left then
+	if action_id == input_left_1 and self.player == 1 or action_id == input_left_2 and self.player == 2 then
 		walk(self, -action.value)
-	elseif action_id == input_right then
+	elseif action_id == input_right_1 and self.player == 1 or action_id == input_right_2 and self.player == 2 then
 		walk(self, action.value)
-	elseif action_id == input_jump then
+	elseif action_id == input_jump_1 and self.player == 1 or action_id == input_jump_2 and self.player == 2 then
 		if action.pressed then
 			jump(self)
 		elseif action.released then
