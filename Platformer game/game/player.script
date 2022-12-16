@@ -35,7 +35,7 @@ local anim_fall = hash("fall")
 function init(self)
 	-- this lets us handle input in this script
 	msg.post(".", "acquire_input_focus")
-	sound.play("go#sound", {delay = 1, gain = 0.5, pan = -1.0, speed = 1})
+	sound.play("player#sound", {delay = 1, gain = 0.5, pan = -1.0, speed = 1})
 
 	-- activate camera attached to the player collection
 	-- this will send camera updates to the render script
