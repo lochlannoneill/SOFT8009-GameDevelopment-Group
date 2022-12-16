@@ -2,7 +2,7 @@
 title = Platformer game
 
 [bootstrap]
-main_collection = /game/level_two/game_level_two.collectionc
+main_collection = /game/level_one/game_level_one.collectionc
 
 [input]
 game_binding = /input/game.input_bindingc

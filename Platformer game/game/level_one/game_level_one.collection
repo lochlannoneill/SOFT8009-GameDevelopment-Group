@@ -39,6 +39,46 @@ collection_instances {
     z: 1.0
   }
 }
+collection_instances {
+  id: "key"
+  collection: "/game/key.collection"
+  position {
+    x: 503.0
+    y: 637.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "key1"
+  collection: "/game/key.collection"
+  position {
+    x: 1150.0
+    y: 731.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
 scale_along_z: 0
 embedded_instances {
   id: "level"
@@ -102,7 +142,7 @@ embedded_instances {
   "embedded_components {\n"
   "  id: \"level1Sound\"\n"
   "  type: \"sound\"\n"
-  "  data: \"sound: \\\"/assets/sounds/level_background_sounds.wav\\\"\\n"
+  "  data: \"sound: \\\"/assets/sounds/game_music.wav\\\"\\n"
   "looping: 0\\n"
   "group: \\\"background_music\\\"\\n"
   "gain: 1.0\\n"
