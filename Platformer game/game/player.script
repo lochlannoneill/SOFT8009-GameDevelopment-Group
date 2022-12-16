@@ -39,11 +39,7 @@ function init(self)
 	-- activate camera attached to the player collection
 	-- this will send camera updates to the render script
 	msg.post("camera", "acquire_camera_focus")
-<<<<<<< HEAD
-	sound.play("player#level1music", {delay = 0, gain = 0.5, pan = -1.0, speed = 1})
-=======
-
->>>>>>> parent of 24114a7 (added sound)
+	sound.play("player#level1music", {delay = 1, gain = 0.5, pan = -1.0, speed = 1.25})
 	-- initial player velocity
 	self.velocity = vmath.vector3(0, 0, 0)
 	-- support variable to keep track of collisions and separation
