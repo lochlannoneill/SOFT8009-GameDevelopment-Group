@@ -22,11 +22,11 @@
 * Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
 -->
 
+### :pencil2: Report: ***[GoogleDoc](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)***
+
 ### :calendar: Project Management ***[GitHubProjects](https://github.com/users/lochlannoneill/projects/2)***
 ![planner](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Planner.PNG?raw=true)  
 ![kanban](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Kanban.PNG?raw=true)  
-
-### :pencil2: Report: ***[GoogleDoc](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)***
 
 ### :speaking_head: Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
 ![discord](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/discord.PNG?raw=true)  
