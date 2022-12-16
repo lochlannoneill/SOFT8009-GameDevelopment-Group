@@ -1,7 +1,7 @@
 name: "game"
 collection_instances {
   id: "player_one"
-  collection: "/game/player_one.collection"
+  collection: "/game/char_one.collection"
   position {
     x: 325.0
     y: 332.0
@@ -21,11 +21,11 @@ collection_instances {
 }
 collection_instances {
   id: "player_two"
-  collection: "/game/player_two.collection"
+  collection: "/game/char_two.collection"
   position {
-    x: 440.0
-    y: 309.0
-    z: 1.0
+    x: 820.0
+    y: 600.0
+    z: 0.0
   }
   rotation {
     x: 0.0
