@@ -14,6 +14,7 @@ end
 function init(self)
 
 	msg.post(".", "acquire_input_focus")
+	load_menu(self)
 
 	
 end

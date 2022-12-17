@@ -5,8 +5,10 @@ end
 function on_input(self, action_id, action)
 	if(action_id == hash("touch") and action.released == true) then
 		local textBegin = gui.get_node("start")
+		
 		if(gui.pick_node(textBegin,action.x,action.y)) then
-			msg.post("loader:/loader#loader_object", "start_game")
+			msg.post("game:/loaderCollection", "load")
+			msg.post("game:/loaderCollection", "start_game")
 		end
 	end
 

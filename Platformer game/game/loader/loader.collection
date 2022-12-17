@@ -1,4 +1,4 @@
-name: "loader"
+name: "loaderCollection"
 scale_along_z: 0
 embedded_instances {
   id: "loader_object"
@@ -38,7 +38,7 @@ embedded_instances {
   "embedded_components {\n"
   "  id: \"menu\"\n"
   "  type: \"collectionproxy\"\n"
-  "  data: \"collection: \\\"/game/camera/camera.collection\\\"\\n"
+  "  data: \"collection: \\\"/game/MainMenu/MainMenu.collection\\\"\\n"
   "exclude: false\\n"
   "\"\n"
   "  position {\n"
