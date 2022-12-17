@@ -1,0 +1,89 @@
+-- local character_1 = go.get_by_id("game:/player_one/player1#player")
+-- local character_2 = go.get_by_id("game:/player_two/player2#player")
+local player1 = go.get("/game/players/player1")
+local player2 = go.get("/game/players/player2")
+
+local character_1_pos = go.get_position(player1)
+local character_2_pos = go.get_position(player2)
+
+local midpoint_x = (character_1_pos.x + character_2_pos.x) / 2
+local midpoint_y = (character_1_pos.y + character_2_pos.y) / 2
+
+local camera_pos = camera.get_position()
+local smoothing = 0.1 -- Adjust this value to control the smoothness of the camera movement
+
+camera_pos.x = camera_pos.x + (midpoint_x - camera_pos.x) * smoothing
+camera_pos.y = camera_pos.y + (midpoint_y - camera_pos.y) * smoothing
+
+-- Limit the camera's x position to the range [min_x, max_x]
+camera_pos.x = math.max(min_x, math.min(camera_pos.x, max_x))
+
+-- Limit the camera's y position to the range [min_y, max_y]
+camera_pos.y = math.max(min_y, math.min(camera_pos.y, max_y))
+
+camera.set_position(camera_pos.x, camera_pos.y)
+
+-- Calculate the distance between the two characters
+local distance = math.sqrt((character_1_pos.x - character_2_pos.x)^2 + (character_1_pos.y - character_2_pos.y)^2)
+
+-- Adjust the camera's zoom level based on the distance between the characters
+if distance < min_distance then
+	camera.set_zoom(max_zoom)
+elseif distance > max_distance then
+	camera.set_zoom(min_zoom)
+else
+	-- Use a linear interpolation to smoothly transition between zoom levels
+	local t = (distance - min_distance) / (max_distance - min_distance)
+	local zoom = min_zoom + (max_zoom - min_zoom) * t
+	camera.set_zoom(zoom)
+end
+
+
+function init(self)
+	print(msg.url())
+	-- Add initialization code here
+	-- Learn more: https://defold.com/manuals/script/
+	-- Remove this function if not needed
+end
+
+function final(self)
+	-- Add finalization code here
+	-- Learn more: https://defold.com/manuals/script/
+	-- Remove this function if not needed
+end
+
+function update(self, dt)
+	-- Add update code here
+	-- Learn more: https://defold.com/manuals/script/
+	-- Remove this function if not needed
+end
+
+function fixed_update(self, dt)
+	-- Add update code here
+	-- Learn more: https://defold.com/manuals/script/
+	-- Remove this function if not needed
+end
+
+function on_message(self, message_id, message, sender)
+	-- Add message-handling code here
+	-- Learn more: https://defold.com/manuals/message-passing/
+	-- Remove this function if not needed
+end
+
+function on_input(self, action_id, action)
+	-- Add input-handling code here. The game object this script is attached to
+	-- must have acquired input focus:
+	--
+	--    msg.post(".", "acquire_input_focus")
+	--
+	-- All mapped input bindings will be received. Mouse and touch input will
+	-- be received regardless of where on the screen it happened.
+	-- Learn more: https://defold.com/manuals/input/
+	-- Remove this function if not needed
+end
+
+function on_reload(self)
+	-- Add reload-handling code here
+	-- Learn more: https://defold.com/manuals/hot-reload/
+	-- Remove this function if not needed
+end

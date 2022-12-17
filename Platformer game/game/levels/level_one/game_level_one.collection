@@ -1,7 +1,7 @@
 name: "game"
 collection_instances {
   id: "key"
-  collection: "/game/key.collection"
+  collection: "/game/collectables/key.collection"
   position {
     x: 1217.0
     y: 608.0
@@ -21,7 +21,7 @@ collection_instances {
 }
 collection_instances {
   id: "key1"
-  collection: "/game/key.collection"
+  collection: "/game/collectables/key.collection"
   position {
     x: 1150.0
     y: 731.0
@@ -41,7 +41,7 @@ collection_instances {
 }
 collection_instances {
   id: "hazard_saw"
-  collection: "/game/hazard_saw.collection"
+  collection: "/game/hazards/hazard_saw.collection"
   position {
     x: 637.0
     y: 611.0
@@ -61,7 +61,7 @@ collection_instances {
 }
 collection_instances {
   id: "hazard_saw1"
-  collection: "/game/hazard_saw.collection"
+  collection: "/game/hazards/hazard_saw.collection"
   position {
     x: 945.0
     y: 706.0
@@ -81,7 +81,7 @@ collection_instances {
 }
 collection_instances {
   id: "turret"
-  collection: "/game/turret.collection"
+  collection: "/game/hazards/turret.collection"
   position {
     x: 911.0
     y: 686.0
@@ -101,7 +101,7 @@ collection_instances {
 }
 collection_instances {
   id: "turret1"
-  collection: "/game/turret.collection"
+  collection: "/game/hazards/turret.collection"
   position {
     x: 990.0
     y: 656.0
@@ -121,7 +121,7 @@ collection_instances {
 }
 collection_instances {
   id: "turret2"
-  collection: "/game/turret.collection"
+  collection: "/game/hazards/turret.collection"
   position {
     x: 1138.0
     y: 484.0
@@ -141,7 +141,7 @@ collection_instances {
 }
 collection_instances {
   id: "hazard_saw2"
-  collection: "/game/hazard_saw.collection"
+  collection: "/game/hazards/hazard_saw.collection"
   position {
     x: 1020.0
     y: 837.0
@@ -161,7 +161,7 @@ collection_instances {
 }
 collection_instances {
   id: "hazard_saw3"
-  collection: "/game/hazard_saw.collection"
+  collection: "/game/hazards/hazard_saw.collection"
   position {
     x: 1263.0
     y: 834.0
@@ -181,7 +181,7 @@ collection_instances {
 }
 collection_instances {
   id: "hazard_saw4"
-  collection: "/game/hazard_saw.collection"
+  collection: "/game/hazards/hazard_saw.collection"
   position {
     x: 1347.0
     y: 482.0
@@ -201,7 +201,7 @@ collection_instances {
 }
 collection_instances {
   id: "spike"
-  collection: "/game/spike.collection"
+  collection: "/game/hazards/spike.collection"
   position {
     x: 1008.0
     y: 400.0
@@ -221,7 +221,7 @@ collection_instances {
 }
 collection_instances {
   id: "spike1"
-  collection: "/game/spike.collection"
+  collection: "/game/hazards/spike.collection"
   position {
     x: 1040.0
     y: 400.0
@@ -241,7 +241,7 @@ collection_instances {
 }
 collection_instances {
   id: "spike2"
-  collection: "/game/spike.collection"
+  collection: "/game/hazards/spike.collection"
   position {
     x: 1072.0
     y: 400.0
@@ -261,7 +261,7 @@ collection_instances {
 }
 collection_instances {
   id: "spike3"
-  collection: "/game/spike.collection"
+  collection: "/game/hazards/spike.collection"
   position {
     x: 1296.0
     y: 720.0
@@ -281,7 +281,7 @@ collection_instances {
 }
 collection_instances {
   id: "spike4"
-  collection: "/game/spike.collection"
+  collection: "/game/hazards/spike.collection"
   position {
     x: 1328.0
     y: 720.0
@@ -301,7 +301,7 @@ collection_instances {
 }
 collection_instances {
   id: "spike5"
-  collection: "/game/spike.collection"
+  collection: "/game/hazards/spike.collection"
   position {
     x: 1360.0
     y: 720.0
@@ -321,7 +321,7 @@ collection_instances {
 }
 collection_instances {
   id: "player_one"
-  collection: "/game/char_one.collection"
+  collection: "/game/players/char_one.collection"
   position {
     x: 325.0
     y: 393.0
@@ -341,7 +341,7 @@ collection_instances {
 }
 collection_instances {
   id: "player_two"
-  collection: "/game/char_two.collection"
+  collection: "/game/players/char_two.collection"
   position {
     x: 818.0
     y: 657.0
@@ -361,7 +361,7 @@ collection_instances {
 }
 collection_instances {
   id: "fire"
-  collection: "/game/fire.collection"
+  collection: "/game/hazards/fire.collection"
   position {
     x: 784.0
     y: 400.0
@@ -381,7 +381,7 @@ collection_instances {
 }
 collection_instances {
   id: "fire1"
-  collection: "/game/fire.collection"
+  collection: "/game/hazards/fire.collection"
   position {
     x: 760.0
     y: 399.0
@@ -401,7 +401,7 @@ collection_instances {
 }
 collection_instances {
   id: "fire2"
-  collection: "/game/fire.collection"
+  collection: "/game/hazards/fire.collection"
   position {
     x: 796.0
     y: 396.0
@@ -421,7 +421,7 @@ collection_instances {
 }
 collection_instances {
   id: "fire5"
-  collection: "/game/fire.collection"
+  collection: "/game/hazards/fire.collection"
   position {
     x: 567.0
     y: 781.0
@@ -441,7 +441,7 @@ collection_instances {
 }
 collection_instances {
   id: "fire6"
-  collection: "/game/fire.collection"
+  collection: "/game/hazards/fire.collection"
   position {
     x: 543.0
     y: 780.0
@@ -461,7 +461,7 @@ collection_instances {
 }
 collection_instances {
   id: "water"
-  collection: "/game/water.collection"
+  collection: "/game/hazards/water.collection"
   position {
     x: 720.0
     y: 47.0
@@ -481,7 +481,7 @@ collection_instances {
 }
 collection_instances {
   id: "water1"
-  collection: "/game/water.collection"
+  collection: "/game/hazards/water.collection"
   position {
     x: 752.0
     y: 47.0
@@ -501,7 +501,7 @@ collection_instances {
 }
 collection_instances {
   id: "water2"
-  collection: "/game/water.collection"
+  collection: "/game/hazards/water.collection"
   position {
     x: 784.0
     y: 47.0
@@ -521,7 +521,7 @@ collection_instances {
 }
 collection_instances {
   id: "water3"
-  collection: "/game/water.collection"
+  collection: "/game/hazards/water.collection"
   position {
     x: 816.0
     y: 47.0
@@ -541,7 +541,7 @@ collection_instances {
 }
 collection_instances {
   id: "water4"
-  collection: "/game/water.collection"
+  collection: "/game/hazards/water.collection"
   position {
     x: 848.0
     y: 47.0
@@ -561,7 +561,7 @@ collection_instances {
 }
 collection_instances {
   id: "water5"
-  collection: "/game/water.collection"
+  collection: "/game/hazards/water.collection"
   position {
     x: 879.0
     y: 47.0
@@ -581,7 +581,7 @@ collection_instances {
 }
 collection_instances {
   id: "water6"
-  collection: "/game/water.collection"
+  collection: "/game/hazards/water.collection"
   position {
     x: 911.0
     y: 47.0
@@ -601,7 +601,7 @@ collection_instances {
 }
 collection_instances {
   id: "water7"
-  collection: "/game/water.collection"
+  collection: "/game/hazards/water.collection"
   position {
     x: 943.0
     y: 47.0
@@ -621,7 +621,7 @@ collection_instances {
 }
 collection_instances {
   id: "water8"
-  collection: "/game/water.collection"
+  collection: "/game/hazards/water.collection"
   position {
     x: 975.0
     y: 47.0
@@ -641,7 +641,7 @@ collection_instances {
 }
 collection_instances {
   id: "water9"
-  collection: "/game/water.collection"
+  collection: "/game/hazards/water.collection"
   position {
     x: 1007.0
     y: 47.0
@@ -664,7 +664,7 @@ embedded_instances {
   id: "level"
   data: "components {\n"
   "  id: \"level\"\n"
-  "  component: \"/game/level_one/level_one.tilemap\"\n"
+  "  component: \"/game/levels/level_one/level_one.tilemap\"\n"
   "  position {\n"
   "    x: 0.0\n"
   "    y: 0.0\n"
@@ -679,7 +679,7 @@ embedded_instances {
   "}\n"
   "components {\n"
   "  id: \"levelonescript\"\n"
-  "  component: \"/game/levelonescript.script\"\n"
+  "  component: \"/game/levels/level_one/levelonescript.script\"\n"
   "  position {\n"
   "    x: 0.0\n"
   "    y: 0.0\n"
@@ -695,7 +695,7 @@ embedded_instances {
   "embedded_components {\n"
   "  id: \"collisionobject\"\n"
   "  type: \"collisionobject\"\n"
-  "  data: \"collision_shape: \\\"/game/level_one/level_one.tilemap\\\"\\n"
+  "  data: \"collision_shape: \\\"/game/levels/level_one/level_one.tilemap\\\"\\n"
   "type: COLLISION_OBJECT_TYPE_STATIC\\n"
   "mass: 0.0\\n"
   "friction: 0.1\\n"

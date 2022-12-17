@@ -33,6 +33,7 @@ local anim_fall = hash("fall")
 
 function init(self)
 	-- this lets us handle input in this script
+	print(msg.url())
 	msg.post(".", "acquire_input_focus")
 
 	-- activate camera attached to the player collection
