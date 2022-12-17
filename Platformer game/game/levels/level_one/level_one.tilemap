@@ -22680,7 +22680,7 @@ layers {
   cell {
     x: 36
     y: 12
-    tile: 4
+    tile: 5
     h_flip: 0
     v_flip: 0
     rotate90: 0
