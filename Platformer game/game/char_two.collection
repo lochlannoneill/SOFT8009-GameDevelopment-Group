@@ -34,6 +34,7 @@ embedded_instances {
   "mask: \\\"ground\\\"\\n"
   "mask: \\\"danger\\\"\\n"
   "mask: \\\"spike\\\"\\n"
+  "mask: \\\"water\\\"\\n"
   "embedded_collision_shape {\\n"
   "  shapes {\\n"
   "    shape_type: TYPE_SPHERE\\n"

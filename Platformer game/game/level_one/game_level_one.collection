@@ -460,11 +460,11 @@ collection_instances {
   }
 }
 collection_instances {
-  id: "fire3"
-  collection: "/game/fire.collection"
+  id: "water"
+  collection: "/game/water.collection"
   position {
-    x: 868.0
-    y: 44.0
+    x: 720.0
+    y: 47.0
     z: 0.0
   }
   rotation {
@@ -480,11 +480,11 @@ collection_instances {
   }
 }
 collection_instances {
-  id: "fire4"
-  collection: "/game/fire.collection"
+  id: "water1"
+  collection: "/game/water.collection"
   position {
-    x: 844.0
-    y: 43.0
+    x: 752.0
+    y: 47.0
     z: 0.0
   }
   rotation {
@@ -500,11 +500,151 @@ collection_instances {
   }
 }
 collection_instances {
-  id: "fire7"
-  collection: "/game/fire.collection"
+  id: "water2"
+  collection: "/game/water.collection"
   position {
-    x: 880.0
-    y: 40.0
+    x: 784.0
+    y: 47.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water3"
+  collection: "/game/water.collection"
+  position {
+    x: 816.0
+    y: 47.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water4"
+  collection: "/game/water.collection"
+  position {
+    x: 848.0
+    y: 47.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water5"
+  collection: "/game/water.collection"
+  position {
+    x: 879.0
+    y: 47.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water6"
+  collection: "/game/water.collection"
+  position {
+    x: 911.0
+    y: 47.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water7"
+  collection: "/game/water.collection"
+  position {
+    x: 943.0
+    y: 47.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water8"
+  collection: "/game/water.collection"
+  position {
+    x: 975.0
+    y: 47.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water9"
+  collection: "/game/water.collection"
+  position {
+    x: 1007.0
+    y: 47.0
     z: 0.0
   }
   rotation {
