@@ -1,0 +1,24 @@
+
+local end_pos = 10
+
+-- Define the duration of the ping pong animation
+local duration = 0.3
+
+function init(self)
+	-- Get the current position of the object
+	local pos = go.get_position()
+
+	-- Create a vector3 value from the start and end positions
+	local end_vector = vmath.vector3(0, end_pos, 0)
+
+	-- Make sure the vector3 values are not nil before adding them
+	if end_vector then
+		-- Add the vector3 values to the current position
+		local new_end_pos = pos + end_vector
+
+		-- Start the ping pong animation
+		go.animate(go.get_id(), "position", go.PLAYBACK_LOOP_PINGPONG, new_end_pos, go.EASING_LINEAR, duration, 0, x_done)
+	else
+		print("Error: One of the vector3 values is nil")
+	end
+end

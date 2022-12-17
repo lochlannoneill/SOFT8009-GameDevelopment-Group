@@ -140,31 +140,11 @@ collection_instances {
   }
 }
 collection_instances {
-  id: "hazard_saw2"
-  collection: "/game/hazards/hazard_saw.collection"
-  position {
-    x: 1020.0
-    y: 837.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.70710677
-    w: 0.70710677
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-collection_instances {
   id: "hazard_saw3"
   collection: "/game/hazards/hazard_saw.collection"
   position {
-    x: 1263.0
-    y: 834.0
+    x: 1344.0
+    y: 98.0
     z: 0.0
   }
   rotation {
@@ -183,7 +163,7 @@ collection_instances {
   id: "hazard_saw4"
   collection: "/game/hazards/hazard_saw.collection"
   position {
-    x: 1347.0
+    x: 1340.0
     y: 482.0
     z: 0.0
   }
@@ -204,7 +184,7 @@ collection_instances {
   collection: "/game/hazards/spike.collection"
   position {
     x: 1008.0
-    y: 400.0
+    y: 391.0
     z: 0.0
   }
   rotation {
@@ -224,7 +204,7 @@ collection_instances {
   collection: "/game/hazards/spike.collection"
   position {
     x: 1040.0
-    y: 400.0
+    y: 391.0
     z: 0.0
   }
   rotation {
@@ -244,7 +224,7 @@ collection_instances {
   collection: "/game/hazards/spike.collection"
   position {
     x: 1072.0
-    y: 400.0
+    y: 391.0
     z: 0.0
   }
   rotation {
@@ -264,7 +244,7 @@ collection_instances {
   collection: "/game/hazards/spike.collection"
   position {
     x: 1296.0
-    y: 720.0
+    y: 711.0
     z: 0.0
   }
   rotation {
@@ -284,7 +264,7 @@ collection_instances {
   collection: "/game/hazards/spike.collection"
   position {
     x: 1328.0
-    y: 720.0
+    y: 711.0
     z: 0.0
   }
   rotation {
@@ -304,7 +284,7 @@ collection_instances {
   collection: "/game/hazards/spike.collection"
   position {
     x: 1360.0
-    y: 720.0
+    y: 711.0
     z: 0.0
   }
   rotation {
@@ -645,6 +625,26 @@ collection_instances {
   position {
     x: 1007.0
     y: 47.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "hazard_saw2"
+  collection: "/game/hazards/hazard_saw.collection"
+  position {
+    x: 399.0
+    y: 97.0
     z: 0.0
   }
   rotation {
