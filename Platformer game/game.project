@@ -11,6 +11,7 @@ use_accelerometer = 0
 [display]
 width = 1920
 height = 1080
+fullscreen = 0
 
 [ios]
 app_icon_120x120 = /assets/app_icons/icon_120.png
@@ -42,4 +43,10 @@ shared_state = 1
 [physics]
 gravity_y = -1000.0
 scale = 0.01
+
+[resource]
+max_resources = 1024
+
+[tilemap]
+max_tile_count = 4096
 

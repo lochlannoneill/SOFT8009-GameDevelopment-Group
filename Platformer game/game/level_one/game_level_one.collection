@@ -420,7 +420,7 @@ collection_instances {
   }
 }
 collection_instances {
-  id: "fire3"
+  id: "fire5"
   collection: "/game/fire.collection"
   position {
     x: 567.0
@@ -440,31 +440,11 @@ collection_instances {
   }
 }
 collection_instances {
-  id: "fire4"
+  id: "fire6"
   collection: "/game/fire.collection"
   position {
     x: 543.0
     y: 780.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-collection_instances {
-  id: "fire5"
-  collection: "/game/fire.collection"
-  position {
-    x: 580.0
-    y: 777.0
     z: 0.0
   }
   rotation {
