@@ -8,7 +8,7 @@ animations {
     image: "/assets/images/character_two/Layer 1_sprite_6.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
   }
-  playback: PLAYBACK_ONCE_FORWARD
+  playback: PLAYBACK_ONCE_PINGPONG
   fps: 12
   flip_horizontal: 0
   flip_vertical: 0

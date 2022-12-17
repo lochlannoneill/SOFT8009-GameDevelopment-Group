@@ -28,6 +28,7 @@ embedded_instances {
   "group: \\\"player\\\"\\n"
   "mask: \\\"ground\\\"\\n"
   "mask: \\\"danger\\\"\\n"
+  "mask: \\\"spike\\\"\\n"
   "embedded_collision_shape {\\n"
   "  shapes {\\n"
   "    shape_type: TYPE_SPHERE\\n"

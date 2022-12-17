@@ -7,61 +7,61 @@ collision: "/assets/images/textures/ALLTEXTURES.png"
 material_tag: "tile"
 convex_hulls {
   index: 0
-  count: 4
+  count: 10
   collision_group: "ground"
 }
 convex_hulls {
-  index: 4
+  index: 10
   count: 4
   collision_group: "no_collision"
 }
 convex_hulls {
-  index: 8
+  index: 14
   count: 8
   collision_group: "no_collision"
 }
 convex_hulls {
-  index: 16
+  index: 22
   count: 4
   collision_group: "ground"
 }
 convex_hulls {
-  index: 20
+  index: 26
   count: 4
   collision_group: "no_collision"
 }
 convex_hulls {
-  index: 24
+  index: 30
   count: 4
   collision_group: "no_collision"
 }
 convex_hulls {
-  index: 28
+  index: 34
   count: 4
   collision_group: "no_collision"
 }
 convex_hulls {
-  index: 32
+  index: 38
   count: 4
   collision_group: "no_collision"
 }
 convex_hulls {
-  index: 36
+  index: 42
   count: 4
   collision_group: "no_collision"
 }
 convex_hulls {
-  index: 40
+  index: 46
   count: 0
   collision_group: ""
 }
 convex_hulls {
-  index: 40
+  index: 46
   count: 0
   collision_group: ""
 }
 convex_hulls {
-  index: 40
+  index: 46
   count: 0
   collision_group: ""
 }

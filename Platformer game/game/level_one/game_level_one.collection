@@ -343,8 +343,8 @@ collection_instances {
   id: "player_two"
   collection: "/game/char_two.collection"
   position {
-    x: 820.0
-    y: 661.0
+    x: 818.0
+    y: 657.0
     z: 0.0
   }
   rotation {
@@ -403,7 +403,7 @@ collection_instances {
   id: "fire2"
   collection: "/game/fire.collection"
   position {
-    x: 797.0
+    x: 796.0
     y: 396.0
     z: 0.0
   }
@@ -445,6 +445,66 @@ collection_instances {
   position {
     x: 543.0
     y: 780.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "fire3"
+  collection: "/game/fire.collection"
+  position {
+    x: 868.0
+    y: 44.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "fire4"
+  collection: "/game/fire.collection"
+  position {
+    x: 844.0
+    y: 43.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "fire7"
+  collection: "/game/fire.collection"
+  position {
+    x: 880.0
+    y: 40.0
     z: 0.0
   }
   rotation {
