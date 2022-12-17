@@ -547,7 +547,7 @@ embedded_instances {
   "group: \\\"background_music\\\"\\n"
   "gain: 1.0\\n"
   "pan: 1.0\\n"
-  "speed: 1.0\\n"
+  "speed: 0.9\\n"
   "loopcount: 0\\n"
   "\"\n"
   "  position {\n"
