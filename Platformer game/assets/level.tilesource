@@ -1,9 +1,9 @@
-image: "/assets/images/textures/Wall.png"
+image: "/assets/images/textures/ALLTEXTURES.png"
 tile_width: 32
 tile_height: 32
 tile_margin: 0
 tile_spacing: 0
-collision: "/assets/images/textures/Wall.png"
+collision: "/assets/images/textures/ALLTEXTURES.png"
 material_tag: "tile"
 convex_hulls {
   index: 0
@@ -13,20 +13,61 @@ convex_hulls {
 convex_hulls {
   index: 4
   count: 4
-  collision_group: "ground"
+  collision_group: "no_collision"
 }
 convex_hulls {
   index: 8
+  count: 8
+  collision_group: "no_collision"
+}
+convex_hulls {
+  index: 16
   count: 4
   collision_group: "ground"
 }
 convex_hulls {
-  index: 12
+  index: 20
   count: 4
-  collision_group: "ground"
+  collision_group: "no_collision"
+}
+convex_hulls {
+  index: 24
+  count: 4
+  collision_group: "no_collision"
+}
+convex_hulls {
+  index: 28
+  count: 4
+  collision_group: "no_collision"
+}
+convex_hulls {
+  index: 32
+  count: 4
+  collision_group: "no_collision"
+}
+convex_hulls {
+  index: 36
+  count: 4
+  collision_group: "no_collision"
+}
+convex_hulls {
+  index: 40
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 40
+  count: 0
+  collision_group: ""
+}
+convex_hulls {
+  index: 40
+  count: 0
+  collision_group: ""
 }
 collision_groups: "danger"
 collision_groups: "ground"
+collision_groups: "no_collision"
 extrude_borders: 2
 inner_padding: 0
 sprite_trim_mode: SPRITE_TRIM_MODE_OFF

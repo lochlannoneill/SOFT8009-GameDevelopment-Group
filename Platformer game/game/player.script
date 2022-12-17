@@ -13,7 +13,6 @@ local gravity = -1900
 -- take-off speed when jumping in pixel units
 local jump_takeoff_speed = 1200
 
-
 -- pre-hashing ids improves performance
 local msg_contact_point_response = hash("contact_point_response")
 local msg_animation_done = hash("animation_done")
@@ -38,7 +37,7 @@ function init(self)
 
 	-- activate camera attached to the player collection
 	-- this will send camera updates to the render script
-	msg.post("camera", "acquire_camera_focus")
+	-- msg.post("camera", "acquire_camera_focus")
 	sound.play("player#level1music", {delay = 1, gain = 0.5, pan = -1.0, speed = 1.25})
 	-- initial player velocity
 	self.velocity = vmath.vector3(0, 0, 0)

@@ -1,50 +1,10 @@
 name: "game"
 collection_instances {
-  id: "player_one"
-  collection: "/game/char_one.collection"
-  position {
-    x: 325.0
-    y: 332.0
-    z: 1.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-collection_instances {
-  id: "player_two"
-  collection: "/game/char_two.collection"
-  position {
-    x: 830.0
-    y: 650.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-collection_instances {
   id: "key"
   collection: "/game/key.collection"
   position {
-    x: 1184.0
-    y: 602.0
+    x: 1217.0
+    y: 608.0
     z: 0.0
   }
   rotation {
@@ -188,10 +148,10 @@ collection_instances {
     z: 0.0
   }
   rotation {
-    x: 0.70710677
-    y: -0.70710677
-    z: 4.3297803E-17
-    w: -4.3297803E-17
+    x: 0.0
+    y: 0.0
+    z: 0.70710677
+    w: 0.70710677
   }
   scale3 {
     x: 1.0
@@ -345,6 +305,166 @@ collection_instances {
   position {
     x: 1360.0
     y: 720.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "player_one"
+  collection: "/game/char_one.collection"
+  position {
+    x: 325.0
+    y: 393.0
+    z: 1.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "player_two"
+  collection: "/game/char_two.collection"
+  position {
+    x: 820.0
+    y: 661.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "fire"
+  collection: "/game/fire.collection"
+  position {
+    x: 784.0
+    y: 400.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "fire1"
+  collection: "/game/fire.collection"
+  position {
+    x: 760.0
+    y: 399.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "fire2"
+  collection: "/game/fire.collection"
+  position {
+    x: 797.0
+    y: 396.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "fire3"
+  collection: "/game/fire.collection"
+  position {
+    x: 567.0
+    y: 781.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "fire4"
+  collection: "/game/fire.collection"
+  position {
+    x: 543.0
+    y: 780.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "fire5"
+  collection: "/game/fire.collection"
+  position {
+    x: 580.0
+    y: 777.0
     z: 0.0
   }
   rotation {
