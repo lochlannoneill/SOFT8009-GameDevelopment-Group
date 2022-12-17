@@ -1,0 +1,27 @@
+local function load_game(self)
+	msg.post("loader_object#main", "load")
+	msg.post("loader_object#main", "enable")
+end
+
+local function load_menu(self)
+	msg.post("loader_object#menu", "load")
+	msg.post("loader_object#menu", "enable")
+end
+local function unload_menu(self)
+	msg.post("loader_object#menu","unload")
+end
+
+function init(self)
+
+	msg.post(".", "acquire_input_focus")
+
+	
+end
+
+function on_message(self, message_id, message, sender)
+	if message_id == hash("start_game") then
+		unload_menu(self)
+		load_game(self)
+	end
+end
+
