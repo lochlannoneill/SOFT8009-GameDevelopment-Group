@@ -163,7 +163,7 @@ collection_instances {
   id: "hazard_saw4"
   collection: "/game/hazards/hazard_saw.collection"
   position {
-    x: 1340.0
+    x: 1388.0
     y: 482.0
     z: 0.0
   }
@@ -303,8 +303,8 @@ collection_instances {
   id: "player_one"
   collection: "/game/players/char_one.collection"
   position {
-    x: 325.0
-    y: 393.0
+    x: 1202.0
+    y: 728.0
     z: 1.0
   }
   rotation {
@@ -323,8 +323,8 @@ collection_instances {
   id: "player_two"
   collection: "/game/players/char_two.collection"
   position {
-    x: 818.0
-    y: 657.0
+    x: 769.0
+    y: 627.0
     z: 0.0
   }
   rotation {
@@ -663,7 +663,7 @@ collection_instances {
   id: "water10"
   collection: "/game/hazards/water.collection"
   position {
-    x: 1297.0
+    x: 1365.0
     y: 367.0
     z: 0.0
   }
@@ -683,7 +683,7 @@ collection_instances {
   id: "water11"
   collection: "/game/hazards/water.collection"
   position {
-    x: 1328.0
+    x: 1396.0
     y: 367.0
     z: 0.0
   }
@@ -703,7 +703,7 @@ collection_instances {
   id: "water12"
   collection: "/game/hazards/water.collection"
   position {
-    x: 1360.0
+    x: 1428.0
     y: 367.0
     z: 0.0
   }
@@ -723,7 +723,7 @@ collection_instances {
   id: "water13"
   collection: "/game/hazards/water.collection"
   position {
-    x: 1392.0
+    x: 1460.0
     y: 367.0
     z: 0.0
   }
@@ -743,7 +743,7 @@ collection_instances {
   id: "water14"
   collection: "/game/hazards/water.collection"
   position {
-    x: 1424.0
+    x: 1492.0
     y: 367.0
     z: 0.0
   }
@@ -763,7 +763,7 @@ collection_instances {
   id: "water15"
   collection: "/game/hazards/water.collection"
   position {
-    x: 1456.0
+    x: 1524.0
     y: 367.0
     z: 0.0
   }
@@ -864,7 +864,7 @@ embedded_instances {
   "}\n"
   ""
   position {
-    x: 0.0
+    x: 4.0
     y: 0.0
     z: 0.0
   }
