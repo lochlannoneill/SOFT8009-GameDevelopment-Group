@@ -659,6 +659,126 @@ collection_instances {
     z: 1.0
   }
 }
+collection_instances {
+  id: "water10"
+  collection: "/game/hazards/water.collection"
+  position {
+    x: 1297.0
+    y: 367.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water11"
+  collection: "/game/hazards/water.collection"
+  position {
+    x: 1328.0
+    y: 367.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water12"
+  collection: "/game/hazards/water.collection"
+  position {
+    x: 1360.0
+    y: 367.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water13"
+  collection: "/game/hazards/water.collection"
+  position {
+    x: 1392.0
+    y: 367.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water14"
+  collection: "/game/hazards/water.collection"
+  position {
+    x: 1424.0
+    y: 367.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "water15"
+  collection: "/game/hazards/water.collection"
+  position {
+    x: 1456.0
+    y: 367.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
 scale_along_z: 0
 embedded_instances {
   id: "level"
