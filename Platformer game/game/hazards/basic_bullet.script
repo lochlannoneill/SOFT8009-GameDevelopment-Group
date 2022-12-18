@@ -1,0 +1,28 @@
+function init(self)
+	-- Add initialization code here
+	-- Learn more: https://defold.com/manuals/script/
+	-- Remove this function if not needed
+
+	-- this bullet travels to the right x
+
+	go.animate(".", "position.y", go.PLAYBACK_ONCE_FORWARD, 1500, go.EASING_LINEAR, 3)
+end
+
+function on_message(self, message_id, message, sender)
+
+	-- if comes into contact with trigger collison obj, player is deleted
+	if message_id == hash("trigger_response") and message.enter then
+		go.delete()
+	end
+
+end
+
+function update(self, dt)
+	-- not working yet, want to delete bullets on impact
+	if self.ground_contact then
+		go.delete()
+	end
+	if self.wall_contact then
+		go.delete()
+	end
+end

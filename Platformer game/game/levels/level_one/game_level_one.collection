@@ -1,4 +1,24 @@
 name: "game"
+instances {
+  id: "bullet"
+  prototype: "/game/hazards/bullet_down.go"
+  position {
+    x: 763.0
+    y: 251.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
 collection_instances {
   id: "key"
   collection: "/game/collectables/key.collection"
@@ -80,26 +100,6 @@ collection_instances {
   }
 }
 collection_instances {
-  id: "turret"
-  collection: "/game/hazards/turret.collection"
-  position {
-    x: 911.0
-    y: 686.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.0
-    w: 1.0
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-collection_instances {
   id: "turret1"
   collection: "/game/hazards/turret.collection"
   position {
@@ -112,26 +112,6 @@ collection_instances {
     y: 0.0
     z: 0.70710677
     w: 0.70710677
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-collection_instances {
-  id: "turret2"
-  collection: "/game/hazards/turret.collection"
-  position {
-    x: 1138.0
-    y: 484.0
-    z: 0.0
-  }
-  rotation {
-    x: 6.123234E-17
-    y: 6.123234E-17
-    z: -1.0
-    w: 3.7493994E-33
   }
   scale3 {
     x: 1.0
@@ -779,6 +759,66 @@ collection_instances {
     z: 1.0
   }
 }
+collection_instances {
+  id: "turret_right"
+  collection: "/game/hazards/turret_right.collection"
+  position {
+    x: 1137.0
+    y: 495.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "turret_left"
+  collection: "/game/hazards/turret_left.collection"
+  position {
+    x: 879.0
+    y: 761.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "turret"
+  collection: "/game/hazards/turret.collection"
+  position {
+    x: 765.0
+    y: 783.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
 scale_along_z: 0
 embedded_instances {
   id: "level"
@@ -796,6 +836,8 @@ embedded_instances {
   "    z: 0.0\n"
   "    w: 1.0\n"
   "  }\n"
+  "  property_decls {\n"
+  "  }\n"
   "}\n"
   "components {\n"
   "  id: \"levelonescript\"\n"
@@ -810,6 +852,8 @@ embedded_instances {
   "    y: 0.0\n"
   "    z: 0.0\n"
   "    w: 1.0\n"
+  "  }\n"
+  "  property_decls {\n"
   "  }\n"
   "}\n"
   "embedded_components {\n"
