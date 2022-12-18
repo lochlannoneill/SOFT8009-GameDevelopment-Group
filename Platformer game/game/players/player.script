@@ -142,7 +142,6 @@ function on_message(self, message_id, message, sender)
 	end
 	-- if comes into contacy with trigger collison obj, player is deleted
 	if message_id == hash("trigger_response") and message.enter then
-		particlefx.play("#death")
 		go.delete()
 	end
 end

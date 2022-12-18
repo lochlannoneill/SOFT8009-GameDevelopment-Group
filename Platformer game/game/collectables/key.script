@@ -42,7 +42,6 @@ function on_message(self, message_id, message, sender)
 		--msg.post("main#gui", "add_score", {amount = score})
 
 		-- line plays the particlefx #pickup
-		particlefx.play("#pickup")
 		go.delete()
 	end
 end
