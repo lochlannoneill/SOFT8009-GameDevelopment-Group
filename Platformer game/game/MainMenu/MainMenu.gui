@@ -5,7 +5,7 @@ fonts {
 }
 textures {
   name: "MainMenuAtlas"
-  texture: "/assets/MainMenuAtlas.atlas"
+  texture: "/assets/images/MainMenu/MainMenu.atlas"
 }
 background_color {
   x: 0.0
@@ -46,7 +46,7 @@ nodes {
   }
   type: TYPE_BOX
   blend_mode: BLEND_MODE_ALPHA
-  texture: "MainMenuAtlas/menu"
+  texture: "MainMenuAtlas/eric new 2"
   id: "box"
   xanchor: XANCHOR_NONE
   yanchor: YANCHOR_NONE
@@ -65,7 +65,7 @@ nodes {
   clipping_inverted: false
   alpha: 1.0
   template_node_child: false
-  size_mode: SIZE_MODE_AUTO
+  size_mode: SIZE_MODE_MANUAL
   custom_type: 0
 }
 nodes {
