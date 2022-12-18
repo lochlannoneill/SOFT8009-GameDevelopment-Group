@@ -1,12 +1,14 @@
-local direction = "position.x"
-
 function init(self)
 	-- Add initialization code here
 	-- Learn more: https://defold.com/manuals/script/
 	-- Remove this function if not needed
 
 	-- this bullet travels left
-	go.animate(".", -direction, go.PLAYBACK_ONCE_FORWARD, 1500, go.EASING_LINEAR, 3)
+	go.animate(".", "position.x", go.PLAYBACK_ONCE_FORWARD, -3000, go.EASING_LINEAR, 3)
+	timer.delay(3, true, function()
+		-- deletes bullet obj after 3 seconds
+		go.delete()
+	end)
 end
 
 function on_message(self, message_id, message, sender)

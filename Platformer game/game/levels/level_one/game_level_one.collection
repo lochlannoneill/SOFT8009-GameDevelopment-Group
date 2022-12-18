@@ -100,26 +100,6 @@ collection_instances {
   }
 }
 collection_instances {
-  id: "turret1"
-  collection: "/game/hazards/turret.collection"
-  position {
-    x: 990.0
-    y: 656.0
-    z: 0.0
-  }
-  rotation {
-    x: 0.0
-    y: 0.0
-    z: 0.70710677
-    w: 0.70710677
-  }
-  scale3 {
-    x: 1.0
-    y: 1.0
-    z: 1.0
-  }
-}
-collection_instances {
   id: "hazard_saw3"
   collection: "/game/hazards/hazard_saw.collection"
   position {
@@ -783,8 +763,8 @@ collection_instances {
   id: "turret_left"
   collection: "/game/hazards/turret_left.collection"
   position {
-    x: 879.0
-    y: 761.0
+    x: 913.0
+    y: 690.0
     z: 0.0
   }
   rotation {
@@ -800,11 +780,51 @@ collection_instances {
   }
 }
 collection_instances {
-  id: "turret"
-  collection: "/game/hazards/turret.collection"
+  id: "turret_left1"
+  collection: "/game/hazards/turret_left.collection"
   position {
-    x: 765.0
-    y: 783.0
+    x: 465.0
+    y: 945.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "turret_down"
+  collection: "/game/hazards/turret_down.collection"
+  position {
+    x: 975.0
+    y: 659.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.70710677
+    w: 0.70710677
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "turret_right1"
+  collection: "/game/hazards/turret_right.collection"
+  position {
+    x: 909.0
+    y: 178.0
     z: 0.0
   }
   rotation {
