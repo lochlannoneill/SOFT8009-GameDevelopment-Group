@@ -13,6 +13,9 @@
 * Language: ***[Lua Scripting](https://www.lua.org/)***  
 * Pixel Art: ***[Piskel](https://www.piskelapp.com/)***  
 
+### :gear: Demo:
+![demo](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4?raw=true)  
+
 <!--
 ***
 
