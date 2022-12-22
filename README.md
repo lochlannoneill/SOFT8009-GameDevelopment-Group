@@ -14,7 +14,8 @@
 * Pixel Art: ***[Piskel](https://www.piskelapp.com/)***  
 
 ### :clapper: Demo:
-![demo](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)  
+![demo_video](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)
+![demo_image](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/Report/Screenshots/overview.png?raw=true)
 
 <!--
 ***
