@@ -33,5 +33,5 @@
 ![kanban](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Kanban.PNG?raw=true)  
 
 ### :speaking_head: Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
-![discord](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/discord.PNG?raw=true)  
+![discord](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/discord.png?raw=true)  
 
