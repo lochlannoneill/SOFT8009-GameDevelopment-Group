@@ -13,6 +13,8 @@
 * Language: ***[Lua Scripting](https://www.lua.org/)***  
 * Pixel Art: ***[Piskel](https://www.piskelapp.com/)***  
 
+### :pencil2: Report: ***[GoogleDoc](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)***
+
 ### :clapper: Demo:
 ![demo_video](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)
 ![demo_image](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/Report/Screenshots/overview.png?raw=true)
@@ -25,8 +27,6 @@
 * Project Management: ~~***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***~~ ***GitHub Projects***
 * Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
 -->
-
-### :pencil2: Report: ***[GoogleDoc](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)***
 
 ### :calendar: Project Management ***[GitHubProjects](https://github.com/users/lochlannoneill/projects/2)***
 ![planner](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Planner.PNG?raw=true)  
