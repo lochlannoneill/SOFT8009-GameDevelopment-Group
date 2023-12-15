@@ -34,7 +34,9 @@
 -----
 
 ### Pixel Art **(*[Piskel](https://www.piskelapp.com/)*)**:
-![piskel](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_player2.png)  
+![player](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_player2.png)  
+![textures](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_textures.png)  
+![key](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_key.png)  
 
 -----
 
@@ -45,7 +47,6 @@
 -----
 
 ### Demo **(*[Video Download](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)*)**:
-![menu](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/menu.png)  
 ![animation](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/animation_key.png)  
 ![overview](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/overview.png)  
 
