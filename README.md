@@ -33,8 +33,21 @@
 
 -----
 
-### Demonstration **(*[Video Download](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)*)**:
-[![Thumbnail](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/Report/Screenshots/overview.png?raw=true)](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)
+### Pixel Art **(*[Piskel](https://www.piskelapp.com/)*)**:
+![piskel](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_player2.png)  
+
+-----
+
+### Wireframes:
+![camera](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/wireframe_camera.png)  
+![level3](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/wireframe_level3.png)  
+
+-----
+
+### Demo **(*[Video Download](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)*)**:
+![menu](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/menu.png)  
+![animation](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/animation_key.png)  
+![overview](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/overview.png)  
 
 -----
 
