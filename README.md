@@ -22,11 +22,6 @@
 
 -----
 
-### Demonstration **(*[Video Download](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)*)**::
-[![Thumbnail](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/Report/Screenshots/overview.png?raw=true)](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)
-
------
-
 ### Communication **(*[Discord](https://discord.gg/SKTmfVWEtJ)*)**:
 ![discord](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/discord.png?raw=true)  
 
@@ -38,4 +33,10 @@
 
 -----
 
+### Demonstration **(*[Video Download](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)*)**:
+[![Thumbnail](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/Report/Screenshots/overview.png?raw=true)](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)
+
+-----
+
 ### Report **(*[Google Drive](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)*)**:
+
