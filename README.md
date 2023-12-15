@@ -53,4 +53,4 @@
 -----
 
 ### Report **(*[Google Drive](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)*)**:
-
+[![report](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/report.png?raw=true)](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)  
