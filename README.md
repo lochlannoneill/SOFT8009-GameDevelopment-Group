@@ -35,8 +35,8 @@
 
 ### Pixel Art **(*[Piskel](https://www.piskelapp.com/)*)**:
 ![player](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_player2.png)  
-![textures](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_textures.png)  
 ![key](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_key.png)  
+![textures](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_textures.png)  
 
 -----
 
