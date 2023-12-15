@@ -33,16 +33,16 @@
 
 -----
 
+### Wireframes:
+![camera](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/wireframe_camera.png)  
+![level3](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/wireframe_level3.png)  
+
+-----
+
 ### Pixel Art **(*[Piskel](https://www.piskelapp.com/)*)**:
 ![player](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_player2.png)  
 ![key](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_key.png)  
 ![textures](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/art_textures.png)  
-
------
-
-### Wireframes:
-![camera](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/wireframe_camera.png)  
-![level3](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/wireframe_level3.png)  
 
 -----
 
