@@ -22,22 +22,20 @@
 
 -----
 
-### Demonstration:
-Video: ([Download](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)):
-Thumnail:
+### Demonstration **(*[Video Download](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)*)**::
 [![Thumbnail](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/Report/Screenshots/overview.png?raw=true)](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)
 
 -----
 
-### Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
+### Communication **(*[Discord](https://discord.gg/SKTmfVWEtJ)*)**:
 ![discord](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/discord.png?raw=true)  
 
 -----
 
-### Project Management ***[GitHub Projects](https://github.com/users/lochlannoneill/projects/2)***
+### Project Management **(*[GitHub Projects](https://github.com/users/lochlannoneill/projects/2)*)**:
 ![planner](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Planner.PNG?raw=true)  
 ![kanban](https://github.com/lochlannoneill/SOFT8009-Game-Development/blob/main/Report/Screenshots/Kanban.PNG?raw=true)  
 
 -----
 
-### Report: ***[GoogleDoc](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)***
+### Report **(*[Google Drive](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)*)**:
