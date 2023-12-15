@@ -23,22 +23,11 @@
 -----
 
 ### Demonstration:
-Video Download:
+Video: ([Download](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)):
+Thumnail:
 [![Thumbnail](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/Report/Screenshots/overview.png?raw=true)](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)
-<!--
-![Video Download](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/demo_video.mp4)
-![Thumbnail](https://github.com/lochlannoneill/SOFT8009-Game-Development-Group/blob/main/Report/Screenshots/overview.png?raw=true)
--->
 
 -----
-
-<!--
-***
-### Collaboration:
-* Report: ***[GoogleDoc](https://docs.google.com/document/d/1LDDofAmBIzmuovxZfRPw5pQWtj--uftGkp9igMtl8As/edit?usp=sharing)***
-* Project Management: ~~***[Monday.com](https://lochlannoneill.monday.com/boards/3393810677)***~~ ***GitHub Projects***
-* Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
--->
 
 ### Communication: ***[Discord](https://discord.gg/SKTmfVWEtJ)***
 ![discord](https://github.com/lochlannoneill/SOFT8009-GameDevelopment-Group/blob/main/Report/Screenshots/discord.png?raw=true)  
